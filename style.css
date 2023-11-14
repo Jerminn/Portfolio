@@ -1,16 +1,50 @@
+/* Border Sections */
 .corner {
     padding-top: 3rem;
 
 }
-
 .corner1 {
     padding-top: 3rem;
     padding-bottom: 7rem;
-
 }
-
 .corner2 {
     padding-top: 3rem;
-    padding-bottom: 35rem;
+    padding-bottom: 25rem;
+}
+.corner3 {
+    padding-top: 3rem;
+    padding-bottom: 10rem;
+}
+.corner4 {
+    padding-top: 3rem;
+    padding-bottom: 6rem;
+}
+/* Profile picture */
+.profile {
+    border-radius: 52px;
+background: linear-gradient(145deg, #597e91, #6a96ac);
+box-shadow:  25px 25px 50px #4d6d7e,
+             -25px -25px 50px #79abc4;
+             
+}
+/* skill */
+.skill-header {
+    color: #79abc4;
 
 }
+.skill-border {
+    background-color:#6a96ac;
+
+}
+.skill-text {
+    text-align: center;
+
+}
+/* Text Shadows */
+.name {
+    text-shadow: 2px 2px #77bbeb;
+  }
+
+.title {
+    text-shadow: 2px 2px rgb(27, 26, 26);
+  }
