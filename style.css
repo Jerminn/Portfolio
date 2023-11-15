@@ -19,12 +19,19 @@
     padding-top: 3rem;
     padding-bottom: 6rem;
 }
+.corner5 {
+    padding-top: 3rem;
+    padding-bottom: 4rem;
+}
+.corner6 {
+    padding-top: 3rem;
+}
 /* Profile picture */
 .profile {
     border-radius: 52px;
-background: linear-gradient(145deg, #597e91, #6a96ac);
-box-shadow:  25px 25px 50px #4d6d7e,
-             -25px -25px 50px #79abc4;
+    background: linear-gradient(145deg, #597e91, #6a96ac);
+    box-shadow:  25px 25px 50px #4d6d7e,
+                -25px -25px 50px #79abc4;
              
 }
 /* skill */
