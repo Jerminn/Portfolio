@@ -1,6 +1,7 @@
 /* Border Sections */
 .corner {
     padding-top: 3rem;
+    padding-bottom: 5rem;
 
 }
 .corner1 {
@@ -9,7 +10,7 @@
 }
 .corner2 {
     padding-top: 3rem;
-    padding-bottom: 25rem;
+    padding-bottom: 5rem;
 }
 .corner3 {
     padding-top: 3rem;
@@ -25,13 +26,13 @@
 }
 .corner6 {
     padding-top: 3rem;
-}
+}   
 /* Profile picture */
 .profile {
     border-radius: 52px;
-    background: linear-gradient(145deg, #597e91, #6a96ac);
-    box-shadow:  25px 25px 50px #4d6d7e,
-                -25px -25px 50px #79abc4;
+background: linear-gradient(145deg, #597e91, #6a96ac);
+box-shadow:  25px 25px 50px #4d6d7e,
+             -25px -25px 50px #79abc4;
              
 }
 /* skill */
@@ -54,4 +55,13 @@
 
 .title {
     text-shadow: 2px 2px rgb(27, 26, 26);
+  }
+  /* Skill Section */
+  .card{
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+    align-items: center;
+  }
+  .card-text{
+    text-align: center;
   }
