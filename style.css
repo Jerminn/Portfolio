@@ -65,3 +65,25 @@ box-shadow:  25px 25px 50px #4d6d7e,
   .card-text{
     text-align: center;
   }
+
+ @media (min-width: 768px) and (max-width:1020px){
+    #bt {margin-left: 11.5rem ;
+        display: inline;
+    }
+    #li {
+       margin-left: 17rem;
+       
+       
+    }
+ }
+
+ @media (max-width:768px){
+ 
+    #li {
+       margin-left: 3rem;
+       
+       
+    }
+ }
+
+ 
