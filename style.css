@@ -194,21 +194,22 @@ box-shadow:  25px 25px 50px #4d6d7e,
   }
 
   /* certificate */
-  .ct .img-fluid {
+.ct .img-fluid {
     transition: transform 0.3s ease-in-out;
   }
+
   .ct img:hover {
+    transform: scale(1.2);
+  }
+  .ct1 .img-fluid {
+    transition: transform 0.3s ease-in-out;
+  }
+  .ct1 img:hover {
     transform: scale(1.2);
     transform: rotate(360deg);
   }
 
-.ct1 .img-fluid {
-    transition: transform 0.3s ease-in-out;
-  }
 
-  .ct1 img:hover {
-    transform: scale(1.2);
-  }
   
   /* SKills Section */
   body {
